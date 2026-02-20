@@ -1,0 +1,2 @@
+# NTTproject-Smartservicerequestportal
+.
